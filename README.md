@@ -1,4 +1,4 @@
-# Shaman Dysinggir - Professional Portfolio
+# Shaman Dysinggar - Professional Portfolio
 
 A high-performance, interactive portfolio and resume for Shaman Dysinggir, built with modern web technologies to showcase professional experience, core competencies, and linguistic proficiency.
 
