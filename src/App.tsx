@@ -79,7 +79,7 @@ export default function App() {
             </span>
             <h1 className="text-6xl md:text-9xl font-display font-bold leading-[0.85] tracking-tighter mb-8 uppercase">
               SHAMAN <br />
-              <span className="gradient-text">DYSINGGIR</span>
+              <span className="gradient-text">DYSINGGAR</span>
             </h1>
             
             <div className="flex flex-wrap justify-center gap-6 text-sm font-mono opacity-60 mb-12">
